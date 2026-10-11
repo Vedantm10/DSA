@@ -2,7 +2,7 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Plaintext-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Array, Two Pointers, Binary Search
